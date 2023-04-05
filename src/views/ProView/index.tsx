@@ -18,12 +18,14 @@ const ProView = () => {
         </Link>
         <Link
           href={'https://github.com'}
+          target="_blank"
           className="w-[140px] text-center px-6 tablet:px-4 py-4 tablet:py-2 bg-gray-600 rounded-full hover:opacity-80"
         >
           Github
         </Link>
         <Link
           href={'https://discord.gg/ambrosial'}
+          target="_blank"
           className="w-[140px] text-center px-6 tablet:px-4 py-4 tablet:py-2 bg-purple-400 rounded-full hover:opacity-80"
         >
           Discord
