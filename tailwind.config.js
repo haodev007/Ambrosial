@@ -9,7 +9,14 @@ module.exports = {
       tablet: { max: '768px' },
       mobile: { max: '425px' },
     },
-    extend: {},
+    extend: {
+      backgroundImage: {
+        hero: "url('/background1.gif')",
+      },
+      backgroundSize: {
+        '3x': '300%',
+      },
+    },
   },
   plugins: [],
 }

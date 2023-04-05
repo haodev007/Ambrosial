@@ -7,9 +7,9 @@ const Home: NextPage = () => {
   return (
     <>
       <Head>
-        <title>TNT</title>
-        <meta name="description" content="This is template for Tailwind CSS + Next.js + TypeScript." />
-        <link rel="icon" href="/favicon.ico" />
+        <title>Ambrosial</title>
+        <meta name="description" content="Ambrosial" />
+        <link rel="icon" href="/logo.gif" />
       </Head>
       <ProView />
     </>
