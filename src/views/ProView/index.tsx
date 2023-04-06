@@ -8,6 +8,7 @@ const ProView = () => {
   return (
     <Col className="bg-black text-white h-screen justify-center items-center p-8 bg-hero bg-cover bg-center tablet:bg-3x tablet:bg-bottom bg-no-repeat">
       {/* <Image src={'/logo.gif'} alt="Logo" width={360} height={360} /> */}
+      <p className="text-[72px] tablet:text-[64px] font-bold">Ambrosial</p>
       <p className="text-[24px] tablet:text-[20px] text-center">A Minecraft: Bedrock Edition utility mod.</p>
       <Row className="text-[20px] tablet:flex-col tablet:space-x-0 tablet:space-y-4">
         <Link
